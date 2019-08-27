@@ -1,0 +1,36 @@
+td, th {
+	font: 12px verdana;
+	text-align: center;
+	border: 1px solid green;
+}
+th {
+	background: green;
+	color: white;
+	font-weight: bold;
+}
+a {
+	color: green;
+	text-decoration: none;
+}
+a:hover {
+	color: deeppink;
+}
+
+.page {
+	margin: 5px;
+}
+.link {
+	font: 11px verdana;
+	border: 1px solid green;
+	padding: 3px;
+	margin: 2px;
+}
+.active {
+	background: green;
+	font: 11px verdana;
+	border: 1px solid green;
+	padding: 3px;
+	font-weight: bold;
+	color: white;
+	margin: 2px;
+}
